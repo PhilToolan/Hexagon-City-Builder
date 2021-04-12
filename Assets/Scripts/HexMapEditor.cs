@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class HexMapEditor : MonoBehaviour
 {
@@ -16,7 +17,7 @@ public class HexMapEditor : MonoBehaviour
 
 	void Update()
 	{
-		if (Input.GetMouseButton(0))
+		if (Input.GetMouseButton(0) && !EventSystem.current.IsPointerOverGameObject())
 		{
 			HandleInput();
 		}
