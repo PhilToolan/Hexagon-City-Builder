@@ -43,3 +43,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c7ea19b25a1a98478b5cfe108e7e69a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coordinates:
+    x: 0
+    z: 0
+  color: {r: 0, g: 0, b: 0, a: 0}
+  material: {fileID: 2100000, guid: 096283b0bf432c043a52015c55783259, type: 2}
+  mesh: {fileID: 534550702561298410, guid: 20af333f1b4fbed4081b71cd3433c7f7, type: 3}
