@@ -156,6 +156,8 @@ MonoBehaviour:
   height: 6
   cellPrefab: {fileID: 5315883686669303718, guid: 882c000a8ac8fd84f904c66c8874f0c6, type: 3}
   cellLabelPrefab: {fileID: 3266209821366760972, guid: c91b91e9fa521a841aa04840e14bc883, type: 3}
+  defaultColor: {r: 1, g: 1, b: 1, a: 1}
+  touchedColor: {r: 1, g: 0, b: 1, a: 1}
 --- !u!4 &13110673
 Transform:
   m_ObjectHideFlags: 0
@@ -369,7 +371,6 @@ MonoBehaviour:
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
-    serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_RenderPostProcessing: 0
