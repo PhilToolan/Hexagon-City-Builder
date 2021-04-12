@@ -63,7 +63,7 @@ public class HexGrid : MonoBehaviour
 		label.text = cell.coordinates.ToStringOnSeparateLines();
 	}
 
-	void Update()
+/*	void Update()
 	{
 		if (Input.GetMouseButton(0))
 		{
@@ -79,15 +79,15 @@ public class HexGrid : MonoBehaviour
 		{
 			TouchCell(hit.point);
 		}
-	}
+	}*/
 
-	void TouchCell(Vector3 position)
+	public void ColorCell(Vector3 position, Color color)
 	{
 		position = transform.InverseTransformPoint(position);
 		HexCoordinates coordinates = HexCoordinates.FromPosition(position);
 		int index = coordinates.X + coordinates.Z * width + coordinates.Z / 2;
 		HexCell cell = cells[index];
-		cell.color = touchedColor;
+		cell.color = color;
 		hexMesh.Triangulate(cells);
 	}
 }
