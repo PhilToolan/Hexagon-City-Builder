@@ -87,7 +87,7 @@ public class HexGrid : MonoBehaviour
 		HexCoordinates coordinates = HexCoordinates.FromPosition(position);
 		int index = coordinates.X + coordinates.Z * width + coordinates.Z / 2;
 		HexCell cell = cells[index];
-		cell.material.color = touchedColor;
+		cell.color = touchedColor;
 		hexMesh.Triangulate(cells);
 	}
 }
