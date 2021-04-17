@@ -1,7 +1,7 @@
 ﻿Shader "Custom/VertexColors" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
-		_MainTexArray ("Albedo (RGB)", 2D) = "white" {}
+		_MainTexArray ("Terrain Texture", 2DArray) = "white" {}
 		_Glossiness ("Smoothness", Range(0,1)) = 0.5
 		_Metallic ("Metallic", Range(0,1)) = 0.0
 	}
