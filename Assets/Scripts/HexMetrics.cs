@@ -27,7 +27,7 @@ public static class HexMetrics {
 
 	public const float verticalTerraceStepSize = 1f / (terracesPerSlope + 1);
 
-	public const float cellPerturbStrength = 4f;
+	public const float cellPerturbStrength = 0f;
 
 	public const float elevationPerturbStrength = 1.5f;
 
