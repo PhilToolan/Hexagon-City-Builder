@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 1438897925}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 685bccb9f717eec43b52ef5370b77ac7, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1973,7 +1973,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -2685,7 +2685,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplyUrbanLevel
         m_Mode: 0
         m_Arguments:
@@ -2936,7 +2936,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 22}
+  m_AnchoredPosition: {x: 0.000000953677, y: 22}
   m_SizeDelta: {x: -8, y: -104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &383762203
@@ -3680,7 +3680,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetWalledMode
         m_Mode: 3
         m_Arguments:
@@ -3933,7 +3933,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRoadMode
         m_Mode: 3
         m_Arguments:
@@ -4177,7 +4177,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetSpecialIndex
         m_Mode: 0
         m_Arguments:
@@ -4353,7 +4353,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplyElevation
         m_Mode: 0
         m_Arguments:
@@ -4530,7 +4530,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplyWaterLevel
         m_Mode: 0
         m_Arguments:
@@ -5220,7 +5220,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetPlantLevel
         m_Mode: 0
         m_Arguments:
@@ -5583,7 +5583,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetWalledMode
         m_Mode: 3
         m_Arguments:
@@ -5911,7 +5911,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetWalledMode
         m_Mode: 3
         m_Arguments:
@@ -6009,7 +6009,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRoadMode
         m_Mode: 3
         m_Arguments:
@@ -6356,7 +6356,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetUrbanLevel
         m_Mode: 0
         m_Arguments:
@@ -6813,7 +6813,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRiverMode
         m_Mode: 3
         m_Arguments:
@@ -6916,7 +6916,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetFarmLevel
         m_Mode: 0
         m_Arguments:
@@ -8670,7 +8670,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetWaterLevel
         m_Mode: 0
         m_Arguments:
@@ -8954,7 +8954,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplyPlantLevel
         m_Mode: 0
         m_Arguments:
@@ -10124,7 +10124,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRoadMode
         m_Mode: 3
         m_Arguments:
@@ -10317,7 +10317,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRiverMode
         m_Mode: 3
         m_Arguments:
@@ -10711,67 +10711,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1428088834}
   m_CullTransparentMesh: 1
---- !u!850595691 &1438897925
-LightingSettings:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Settings.lighting
-  serializedVersion: 3
-  m_GIWorkflowMode: 0
-  m_EnableBakedLightmaps: 1
-  m_EnableRealtimeLightmaps: 1
-  m_RealtimeEnvironmentLighting: 1
-  m_BounceScale: 1
-  m_AlbedoBoost: 1
-  m_IndirectOutputScale: 1
-  m_UsingShadowmask: 0
-  m_BakeBackend: 0
-  m_LightmapMaxSize: 1024
-  m_BakeResolution: 40
-  m_Padding: 2
-  m_TextureCompression: 1
-  m_AO: 0
-  m_AOMaxDistance: 1
-  m_CompAOExponent: 0
-  m_CompAOExponentDirect: 0
-  m_ExtractAO: 0
-  m_MixedBakeMode: 1
-  m_LightmapsBakeMode: 1
-  m_FilterMode: 1
-  m_LightmapParameters: {fileID: 15204, guid: 0000000000000000f000000000000000, type: 0}
-  m_ExportTrainingData: 0
-  m_TrainingDataDestination: TrainingData
-  m_RealtimeResolution: 2
-  m_ForceWhiteAlbedo: 0
-  m_ForceUpdates: 0
-  m_FinalGather: 0
-  m_FinalGatherRayCount: 1024
-  m_FinalGatherFiltering: 1
-  m_PVRCulling: 1
-  m_PVRSampling: 1
-  m_PVRDirectSampleCount: 32
-  m_PVRSampleCount: 500
-  m_PVREnvironmentSampleCount: 500
-  m_PVREnvironmentReferencePointCount: 2048
-  m_LightProbeSampleCountMultiplier: 4
-  m_PVRBounces: 2
-  m_PVRMinBounces: 2
-  m_PVREnvironmentMIS: 0
-  m_PVRFilteringMode: 2
-  m_PVRDenoiserTypeDirect: 0
-  m_PVRDenoiserTypeIndirect: 0
-  m_PVRDenoiserTypeAO: 0
-  m_PVRFilterTypeDirect: 0
-  m_PVRFilterTypeIndirect: 0
-  m_PVRFilterTypeAO: 0
-  m_PVRFilteringGaussRadiusDirect: 1
-  m_PVRFilteringGaussRadiusIndirect: 5
-  m_PVRFilteringGaussRadiusAO: 2
-  m_PVRFilteringAtrousPositionSigmaDirect: 0.5
-  m_PVRFilteringAtrousPositionSigmaIndirect: 2
-  m_PVRFilteringAtrousPositionSigmaAO: 1
 --- !u!1 &1479395907
 GameObject:
   m_ObjectHideFlags: 0
@@ -11343,7 +11282,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplyFarmLevel
         m_Mode: 0
         m_Arguments:
@@ -11756,7 +11695,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1646844385}
-        m_TargetAssemblyTypeName: NewMapMenu, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: ToggleMapGeneration
         m_Mode: 0
         m_Arguments:
@@ -12079,7 +12018,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetEditMode
         m_Mode: 0
         m_Arguments:
@@ -12091,7 +12030,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 333297601}
-        m_TargetAssemblyTypeName: HexGameUI, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetEditMode
         m_Mode: 0
         m_Arguments:
@@ -12418,7 +12357,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -13199,7 +13138,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -13372,7 +13311,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetRiverMode
         m_Mode: 3
         m_Arguments:
@@ -14250,7 +14189,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -14414,7 +14353,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -14834,7 +14773,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetApplySpecialIndex
         m_Mode: 0
         m_Arguments:
@@ -15125,7 +15064,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetBrushSize
         m_Mode: 0
         m_Arguments:
@@ -15222,7 +15161,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetTerrainTypeIndex
         m_Mode: 3
         m_Arguments:
@@ -15558,7 +15497,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: SetElevation
         m_Mode: 0
         m_Arguments:
@@ -15782,7 +15721,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2142000451}
-        m_TargetAssemblyTypeName: HexMapEditor, Assembly-CSharp
+        m_TargetAssemblyTypeName: 
         m_MethodName: ShowGrid
         m_Mode: 0
         m_Arguments:
